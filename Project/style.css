@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul>li{
+    font-size: 13px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.solsearch::placeholder{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.kart-1{
+    display: flexbox;
+    position: absolute;
+    right: 35%;
+    top: 15px;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    
+}
+.kart-2{
+    display: flexbox;
+    position: relative;
+}
+.yazi{
+    font-size: 11px;
+    color: gray;
+    font-weight: bold;
+
+}
+.ortasearch::placeholder{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.mesaj{
+    bottom: 0px;
+    right: 0px;
+    position: -webkit-sticky;
+}
+i :hover{
+    color: black;
+}
+
